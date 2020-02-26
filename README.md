@@ -3,10 +3,10 @@
 Mémo (non exhaustif) à l'usage des Graphistes/Artistes/Designers/Ingénieurs  
 
 Voici un lien où vous pouvez le télécharger :  
--[Télécharger memoCMD](memoCMD_v4.pdf)  
+-[Télécharger memoCMD](https://github.com/randomDam/memo_cmd/raw/master/memoCMD_v4.pdf)  
 (non imposé)  
   
--[Télécharger memoCMD_imp](memoCMD_imp.pdf)  
+-[Télécharger memoCMD_imp](https://github.com/randomDam/memo_cmd/raw/master/memoCMD_imp.pdf)  
 (imposé par planche, imprimez les pages impaires, retournez les pages et imprimez les pages paires)
 
   
