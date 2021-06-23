@@ -14,6 +14,7 @@ Vous pouvez ensuite l'imprimer par 2 pages recto/verso pour obtenir un livret au
 N'hésitez pas à ajouter des _Issues_ si vous jugez qu'il manque certaines choses.
 
 ---
+
 <div style="display: inline-block">
 	<img src="preview/memoIma-01.png" alt="" width="200">
 	<img src="preview/memoIma-02.png" alt="" width="200">
@@ -36,4 +37,9 @@ N'hésitez pas à ajouter des _Issues_ si vous jugez qu'il manque certaines chos
 	<img src="preview/memoIma-19.png" alt="" width="200">
 	<img src="preview/memoIma-20.png" alt="" width="200">
 </div>
+
 ---
+
+## Liste des contributeurs : 
+
+- https://github.com/zerojardins
