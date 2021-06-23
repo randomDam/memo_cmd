@@ -3,7 +3,7 @@
 Mémo (non exhaustif) à l'usage des Graphistes/Artistes/Designers/Ingénieurs  
 
 Voici un lien où vous pouvez le télécharger :  
--[Télécharger memoCMD](https://github.com/randomDam/memo_cmd/raw/master/memoCMD_v4.pdf)  
+-[Télécharger memoCMD](https://github.com/randomDam/memo_cmd/raw/master/memoCMD_v5.pdf)  
 (non imposé)  
   
 -[Télécharger memoCMD_imp](https://github.com/randomDam/memo_cmd/raw/master/memoCMD_imp.pdf)  
