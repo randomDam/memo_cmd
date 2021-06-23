@@ -11,7 +11,7 @@ Voici un lien où vous pouvez le télécharger :
 
   
 Vous pouvez ensuite l'imprimer par 2 pages recto/verso pour obtenir un livret au format A5.  
-N'hésitez pas à ajouter des _pulls requests_ si vous jugez qu'il manque certaines choses.
+N'hésitez pas à ajouter des _Issues_ si vous jugez qu'il manque certaines choses.
 
 ---
 <div style="display: inline-block">
