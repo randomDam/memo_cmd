@@ -43,3 +43,4 @@ N'hésitez pas à ajouter des _Issues_ si vous jugez qu'il manque certaines chos
 ## Liste des contributeurs : 
 
 - https://github.com/zerojardins
+- https://github.com/jdpillon
